@@ -14,6 +14,12 @@ Interpretability:
 
 <img width="549" alt="image" src="https://github.com/user-attachments/assets/3d1ef778-7527-4c93-9eb9-33e1b614dd5c">
 
+Demo (Models uploaded to HuggingFace):
+
+ViT-Base: https://huggingface.co/Jayanth2002/vit_base_patch16_224-finetuned-SkinDisease
+Swin-Base: https://huggingface.co/Jayanth2002/swin-base-patch4-window7-224-rawdata-finetuned-SkinDisease
+DinoV2-Base: https://huggingface.co/Jayanth2002/dinov2-base-finetuned-SkinDisease
+
 If you use this work, kindly cite:
 
 @article{mohan2024enhancing,
